@@ -4,6 +4,7 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/01_개발환경_구축,변수,타입,연산자(기본)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02_조건문과_반복문,참조타입(기본)" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
