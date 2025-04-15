@@ -1,4 +1,4 @@
-package ch03.sec09;
+package ch03.sec09none;
 
 public class StringConcatExample {
     public static void main(String[] args) {
