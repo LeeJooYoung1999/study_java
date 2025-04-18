@@ -1,0 +1,38 @@
+package ch06.sec07.exam05;
+//앞에서 정의한 Car클래스를 이용하여, 다음 출력이 나오도록 운영하세요
+public class CarExample {
+    public static void main (String[] args){
+        Car car1 = new Car();  //얘는 기본생성자 아니면 해결이 안됨.
+        System.out.println("car1.company = " + car1.company);
+        System.out.println();  //줄내림
+        Car car2 = new Car("자가용");
+        System.out.println("car2.company = " + car2.company);
+        System.out.println("car2.model = " + car2.model);
+        System.out.println();  //줄내림
+        Car car3 = new Car("자가용","빨강");
+        System.out.println("car3.company = " + car3.company);
+        System.out.println("car3.model = " + car3.model);
+        System.out.println("car3.color = " + car3.color);
+        System.out.println();  //줄내림
+        Car car4 = new Car("택시","검정",200);
+        System.out.println("car4.company = " + car4.company);
+        System.out.println("car4.model = " + car4.model);
+        System.out.println("car4.color = " + car4.color);
+        System.out.println("car4.maxSpeed = " + car4.maxSpeed);
+    }
+}
+
+//제시된 출력
+//car1.company : 현대자동차
+//
+//car2.company : 현대자동차
+//car2.model : 자가용
+//
+//car3.company : 현대자동차
+//car3.model : 자가용
+//car3.color : 빨강
+//
+//car4.company : 현대자동차
+//car4.model : 택시
+//car4.color : 검정
+//car4.maxSpeed : 200
