@@ -3,8 +3,8 @@ package SingletonExample;
 public class DatabaseExample {
     public static void main(String[] args) {
         Database db = Database.getInstance();  //싱글톤객체 호출하여, db정의
-        db.connect(); //데이터베이스 연결하기
-        System.out.println("데이터베이스: "+db.connect());  //데이터베이스 정보 출력
+        String connectionName = db.connect(); //데이터베이스 연결하기 & 반환된 값을 저장
+        System.out.println("데이터베이스: "+connectionName);  //데이터베이스 정보 출력
         db.close(); //데이터베이스 연결닫기
     }
 }
