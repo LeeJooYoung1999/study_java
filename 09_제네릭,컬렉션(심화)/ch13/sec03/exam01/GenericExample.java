@@ -8,6 +8,7 @@ public class GenericExample {
         return box; //제네릭메소드의 반환부
     }
     //boxing 제너릭 메소드 정의 End
+    
     public static void main(String[] args) {
         Box<Integer> box1 = boxing(100); //타입T = Integer인 객체 Box생성하여 box1에 저장.
         int intvalue = box1.get(); //저장된 integer값 100꺼내어 변수 intvalue에 저장.

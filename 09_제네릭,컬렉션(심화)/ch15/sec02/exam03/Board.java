@@ -1,4 +1,4 @@
-package ch15.sec02.exam01;
+package ch15.sec02.exam03;
 //다음 Board클래스에 롬복을 사용하여 기본 데이터 클래스로 작성하시오.
 
 import lombok.AllArgsConstructor;
