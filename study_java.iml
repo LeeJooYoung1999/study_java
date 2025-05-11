@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/01_개발환경_구축,변수,타입,연산자(심화)" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/02_조건문과_반복문,참조타입(심화)" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/03_클래스(기본)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03_클래스(심화)" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
