@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2867c67-dac4-4165-a9ca-9a12b6c860a5" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/06_중첩객체(기본).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch09/sec02/exam01/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch09/sec02/exam01/AExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch09/sec02/exam02/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch09/sec02/exam02/AExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch09/sec03/exam01/AExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09/sec03/exam01/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09/sec03/exam02/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09/sec03/exam02/AExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09/sec06/exam01/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09/sec06/exam03/ButtonExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09/sec07/exam02/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09/sec07/exam02/HomeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09/sec07/exam02/RemoteControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch09/sec03/exam01/AExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch09/sec03/exam01/AExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,21 +31,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "LeeJooYoung1999"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LeeJooYoung1999&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/LeeJooYoung1999/study_java",
-    "accountId": "563dadd3-8a60-4046-8e6a-a7f0287c879c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LeeJooYoung1999/study_java&quot;,
+    &quot;accountId&quot;: &quot;563dadd3-8a60-4046-8e6a-a7f0287c879c&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2wRExWh5UAsYQwwzzuZt6BrIWHc" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -60,7 +60,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "feat/gallaxynote",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -90,6 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1745996233665</updated>
       <workItem from="1745996235442" duration="5139000" />
+      <workItem from="1747032836666" duration="371000" />
     </task>
     <servers />
   </component>
